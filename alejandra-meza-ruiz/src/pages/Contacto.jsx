@@ -149,8 +149,7 @@ function Contacto() {
             className="btn btn-primary"
             onClick={limpiarFormulario}
           >
-            Enviar Formulario
-          </button>
+r          </button>
         </article>
       </section>
     </>
